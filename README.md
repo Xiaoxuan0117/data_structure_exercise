@@ -1,4 +1,4 @@
-#data-structure-exercise
+# data-structure-exercise
 ### exercise1-計算總和與比大小
 程式功能
 <ul>
